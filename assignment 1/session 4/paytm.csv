@@ -1,6 +1,0 @@
-TransactionID;Amount;Mobile;Status
-101;500;9876543210;Success
-102;1000;;Success
-103;;9876543211;Failed
-104;750;9876543212;
-105;900;9876543213;Success
