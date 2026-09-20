@@ -1,0 +1,9 @@
+restaurant_id,restaurant_name,category,city,total_orders,total_revenue,avg_rating,revenue_rank
+5,Royal Dine,Indian,Ahmedabad,3,2500.0,4.7,1
+8,Tandoori Treat,Indian,Mumbai,3,2450.0,4.53,2
+2,Pizza House,Italian,Surat,3,2350.0,4.17,3
+1,Spice Hub,Indian,Surat,4,2300.0,4.4,4
+6,Pasta Corner,Italian,Ahmedabad,3,1850.0,4.17,5
+3,China Bowl,Chinese,Mumbai,3,1650.0,4.03,6
+4,Burger Point,Fast Food,Mumbai,3,1050.0,3.83,7
+7,Food Junction,Fast Food,Surat,3,900.0,4.0,8
